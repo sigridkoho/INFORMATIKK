@@ -1,0 +1,2 @@
+# INFORMATIKK
+Master INF at UIT
